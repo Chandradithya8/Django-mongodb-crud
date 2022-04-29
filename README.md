@@ -18,6 +18,4 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://www.fullstackpython.com/img/logos/django.png"></code>
 <code><img height="40" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg"></code>
-<code><img height="40" src="https://www.google.co.in/search?q=jinja+template+django&tbm=isch&ved=2ahUKEwi5tszyx7n3AhUNk9gFHUeHBfUQ2-cCegQIABAA&oq=jinja+template&gs_lcp=CgNpbWcQARgBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEAgQHjIECAAQGDIECAAQGDIECAAQGDIECAAQGDoHCAAQsQMQQzoECAAQQzoICAAQgAQQsQM6CwgAEIAEELEDEIMBOggIABCxAxCDAToECAAQHlCIDFjOJWDNOGgAcAB4AIABxgKIAYkXkgEIMC4xMS4zLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=vQBsYvnjPI2m4t4Px46WqA8&bih=750&biw=1536#imgrc=zC1kRsulDtdsGM"></code>
-
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
