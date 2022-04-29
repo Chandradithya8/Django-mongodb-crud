@@ -22,18 +22,18 @@
 <br>
 <br>
 
-### MongoDB
+- ### MongoDB
 <img src="https://github.com/Chandradithya8/Django-mongodb-crud/blob/master/photos/Screenshot%202022-04-29%20211134.png" height="480" width="1000" />
 
 
-### Home Page
+- ### Home Page
 <img src="https://github.com/Chandradithya8/Django-mongodb-crud/blob/master/photos/Screenshot%202022-04-29%20211328.png" height="480" width="1000" />
 
-### Add user Page
+- ### Add user Page
 <img src="https://github.com/Chandradithya8/Django-mongodb-crud/blob/master/photos/Screenshot%202022-04-29%20211405.png" height="480" width="1000" />
 
-### Update user Page
+- ### Update user Page
 <img src="https://github.com/Chandradithya8/Django-mongodb-crud/blob/master/photos/Screenshot%202022-04-29%20211430.png" height="480" width="1000" />
 
-### Home Page after deletion of a user
+- ### Home Page after deletion of a user
 <img src="https://github.com/Chandradithya8/Django-mongodb-crud/blob/master/photos/Screenshot%202022-04-29%20211538.png" height="480" width="1000" />
