@@ -1,6 +1,6 @@
 # Django_MongoDB_CRUD Application
 
-**This is a simple Django Web Application that uses MongoDB as a backend database to perform CRUD operations**
+This is a simple Django Web Application that uses MongoDB as a backend database to perform CRUD operations
 
 ## BUILT WITH 🛠️
 
